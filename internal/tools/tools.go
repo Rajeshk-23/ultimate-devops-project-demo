@@ -1,3 +1,4 @@
+#buildtools
 //
 
 //go:build tools
